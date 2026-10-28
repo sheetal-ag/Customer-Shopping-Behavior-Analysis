@@ -1,6 +1,8 @@
 # Customer Shopping Behavior Analysis
 
 An end-to-end data analytics project using **Python, SQL, and Power BI** to explore customer shopping patterns and support data-driven retail decisions.
+<img width="1043" height="577" alt="image" src="https://github.com/user-attachments/assets/ed22cc40-fded-49e9-9a4d-7f3d241995e2" />
+
 
 ## Tools
 - **Python:** pandas, Jupyter Notebook
